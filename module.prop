@@ -1,0 +1,6 @@
+id=LineageOS_dialer
+name=LineageOS Dialer
+version=v1.0
+versionCode=1
+author=Poras
+description=Install LineageOS Dialer on Any AOSP Custom ROM (A13 Only)
